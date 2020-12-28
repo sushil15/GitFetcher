@@ -1,3 +1,20 @@
+# GitFetcher app
+## This app  show you data of user from github.
+###  Shows information like:
+#### 1.Name of user
+#### 2.Gives github account link of user
+#### 3.No. of repositories
+#### 4.Followers & Following
+
+
+## Note:
+### Please note that you can  do 60 request only in 1 hour  and  if you consumed that then you have to wait for sometime.
+###  When you consume all request then it will show you warning.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
